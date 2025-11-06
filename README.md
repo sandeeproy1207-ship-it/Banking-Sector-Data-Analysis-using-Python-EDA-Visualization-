@@ -73,28 +73,7 @@ This project investigates:
 - Developed **interactive dashboards** for real-time analysis and exploration.  
 - Delivered actionable insights through comprehensive reports and presentations.
 
----
+### 🔍 Power BI Dashboard Snapshot  
+Below is a preview of the interactive dashboard created for banking KPI analytics:
 
-## 💼 Business Recommendations  
-
-1. **Retention Focus:** Target at-risk segments through loyalty programs and personalized offers.  
-2. **Cross-Sell Opportunities:** Offer additional financial products to high-balance, long-tenure clients.  
-3. **Segment-Based Marketing:** Use customer age, region, and engagement metrics for campaign personalization.  
-4. **Performance Monitoring:** Integrate the Power BI dashboard for ongoing KPI tracking.  
-5. **Risk Strategy Review:** Adjust pricing and credit strategies based on demographic and behavioral insights.
-
----
-
-## 🚀 Next Steps  
-
-- **Expand Dataset:** Include transactional and behavioral variables for deeper segmentation.  
-- **Predictive Modelling:** Develop churn prediction and customer lifetime value models.  
-- **Dashboard Automation:** Connect live databases for auto-refresh Power BI dashboards.  
-- **CRM Integration:** Feed analytical insights directly into marketing and service systems.  
-- **A/B Testing:** Validate new campaigns using experimental design.  
-- **Iterative Analytics:** Continuously update EDA and dashboards as new data arrives.
-
----
-
-## 📁 Repository Structure  
-
+![Banking Dashboard Su]()
