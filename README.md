@@ -1,18 +1,6 @@
 # 🏦 Banking Sector Data Analysis using Python – EDA & Visualization
 
-![Banking Data Banner](https://github.com/sandeeproy1207-ship-it/Banking-Sector-Data-Analysis-using-Python-EDA-Visualization-/assets/banner-placeholder.jpg)
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi" />
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?logo=microsoft-excel" />
-  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange" />
-  <img src="https://img.shields.io/badge/Status-Completed-success" />
-</p>
-
----
 
 ## 📋 Executive Summary  
 This project explores **banking sector customer data** to extract actionable insights through **Exploratory Data Analysis (EDA)** and **data visualization**.  
@@ -76,4 +64,5 @@ This project investigates:
 ### 🔍 Power BI Dashboard Snapshot  
 Below is a preview of the interactive dashboard created for banking KPI analytics:
 
-![Banking Dashboard Su]()
+![banking dashboard](https://github.com/user-attachments/assets/807c2e18-9636-4f87-82b8-9f90b05070fb)
+
